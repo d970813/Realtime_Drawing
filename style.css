@@ -24,4 +24,5 @@ canvas{
     border: 5px solid violet;
 border-radius: 20px;
 box-shadow: 3px 3px rgb(255, 128, 0), -1em 0 .4em rgb(241, 5, 5);
+background-color: lightskyblue;
 }
